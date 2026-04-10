@@ -1,11 +1,11 @@
 {
-  "name": " nigga ",
+  "name": "afk",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {hamzapvPs}
     "ip": "hamzapvPs.aternos.me",
     "port": 17520,
     "version": "1.21",
