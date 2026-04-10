@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server": {hamzapvPs}
+  "server": {
     "ip": "hamzapvPs.aternos.me",
     "port": 17520,
     "version": "1.21",
